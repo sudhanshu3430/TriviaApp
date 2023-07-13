@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TriviaApp</string>
+    <string name="title_text">TRIVIA</string>
+    <string name="out_of_text">Questions: 0/913</string>
+    <string name="true_text">True</string>
+    <string name="false_text">false</string>
+    <string name="next_button">NEXT</string>
+    <string name="text_formatted">Questions: %d/%d</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="incorrect_answer">InCorrect!</string>
+    <string name="zero_value">Score: 0</string>
+    <string name="high_score">Highest Score</string>
+</resources>
